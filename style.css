@@ -459,8 +459,8 @@ body {
     top: 0;
     left: 0;
     background-color: rgba(0,0,0,.5);
-    width: 100%;
-    height: 100%;
+    width: 200%;
+    height: 200%;
     z-index: 10;
     display: none;
 }
@@ -481,8 +481,8 @@ body {
     position: absolute;
     right: -10px;
     top: -10px;
-    width: 60px;
-    height: 60px;
+    width: 90px;
+    height: 90px;
     background-color: var(--color-white);
     border-radius: 30%;
     display: flex;
