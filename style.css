@@ -251,8 +251,8 @@ body {
 }
 .content .right .image{
     position: relative;
-    width: 400px;
-    height: 400px;
+    width: 800px;
+    height: 800px;
     border-radius: 50%;
     overflow: hidden;
     display: flex;
