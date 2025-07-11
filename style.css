@@ -253,7 +253,7 @@ body {
     position: relative;
     width: 800px;
     height: 800px;
-    border-radius: 50%;
+    border-radius: 30%;
     overflow: hidden;
     display: flex;
     align-items: center;
